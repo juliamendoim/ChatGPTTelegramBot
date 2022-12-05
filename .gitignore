@@ -1,0 +1,24 @@
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# IDE files
+.DS_Store
+*.iml
+*.ipr
+*.iws
+*.log
+
+# pipenv files
+Pipfile
+Pipfile.lock
+
+# venv files
+myenv/
+
+keys.txt

@@ -3,9 +3,9 @@ import openai
 
 from telegram.ext import Updater
 
-openai.api_key = "OPENAI API KEY"
+openai.api_key = "OPENAI_API_KEY"
 
-updater = Updater(token="TELEGRAM BOT API KEY", use_context=True)
+updater = Updater(token="TELEGRAM_API_KEY", use_context=True)
 
 def handle_updates(update, context):
     # Get the text of the message that was received

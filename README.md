@@ -5,4 +5,4 @@ ChatGPT wrote the code, requirements and gitignore files on my request. I've onl
 
 ## Run
 
-    $python bot.py
+    $ python bot.py
